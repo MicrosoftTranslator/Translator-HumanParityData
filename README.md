@@ -24,6 +24,13 @@ This release contains the following data:
 4. References
 
     When using this data we require that you cite our paper.
+    
+# Releases
+
+#### Translator-HumanParityData v1.0
+- URL: TBA
+- Date: March 14, 2018
+- Description: Initial release.
 
 # Microsoft Research Data License Agreement
 
