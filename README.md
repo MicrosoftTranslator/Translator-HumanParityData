@@ -28,7 +28,7 @@ This release contains the following data:
 # Releases
 
 #### Translator-HumanParityData v1.0
-- URL: https://github.com/MicrosoftTranslator/Translator-HumanParityData/blob/master/Translator-HumanParityData-v1.0.zip?raw=true
+- URL: http://download.microsoft.com/download/4/F/3/4F3F0C58-BF49-4BB7-B388-0F77AB942309/Translator-HumanParityData-v1.0.zip
 - Date: March 14, 2018
 - Description: Initial release.
 
